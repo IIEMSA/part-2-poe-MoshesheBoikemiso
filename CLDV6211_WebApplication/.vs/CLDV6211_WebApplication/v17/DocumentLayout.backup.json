@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\models\\webappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:models\\webappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\cldv6211_webapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:cldv6211_webapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\migrations\\20250406113633_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:migrations\\20250406113633_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\migrations\\20250406163100_removeimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:migrations\\20250406163100_removeimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-moshesheboikemiso\\cldv6211_webapplication\\migrations\\20250407064927_renamevenuelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E8FE9B-2A65-4270-BDA3-39D999949AE2}|CLDV6211_WebApplication.csproj|solutionrelative:migrations\\20250407064927_renamevenuelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T14:56:32.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAADQzszMzIwpwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:24:48.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAMAAACgaGZmZuYswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:24:24.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAABYAAAAAnpmZmZkkwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:49:15.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebAppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\WebAppDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\WebAppDBContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\WebAppDBContext.cs",
+              "RelativeToolTip": "Models\\WebAppDBContext.cs",
+              "ViewState": "AgIAAAYAAAD+//////83wA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:03:36.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAAkAAACg/////38ZwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T14:12:15.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T15:27:33.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:10:08.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Event\\Delete.cshtml",
+              "ViewState": "AgIAABgAAACAmZmZmZkewAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T14:57:27.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T11:20:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T09:03:44.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAIAAADAmZmZmZkUwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:25:16.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T08:54:49.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAABQzczMzKw9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:08:07.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Details.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Details.cshtml",
+              "ViewState": "AgIAABYAAABAmZmZmRkmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T10:20:53.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAANDMzMzMLwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T10:35:01.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CLDV6211_WebApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\CLDV6211_WebApplication.csproj",
+              "RelativeDocumentMoniker": "CLDV6211_WebApplication.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\CLDV6211_WebApplication.csproj",
+              "RelativeToolTip": "CLDV6211_WebApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T10:17:36.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T07:40:07.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Booking\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T10:37:13.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Create.cshtml",
+              "ViewState": "AgIAACUAAADAzczMzIwjwCkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T13:36:25.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAmpmZmVkqwCIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T11:10:16.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "Controllers\\VenuesController.cs",
+              "ViewState": "AgIAABgAAADgNTMzM/MmwCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:19:05.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:17:41.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:27:32.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250407064927_RenameVenueLocation.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Migrations\\20250407064927_RenameVenueLocation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250407064927_RenameVenueLocation.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Migrations\\20250407064927_RenameVenueLocation.cs",
+              "RelativeToolTip": "Migrations\\20250407064927_RenameVenueLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:49:27.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250406163100_RemoveImageURL.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Migrations\\20250406163100_RemoveImageURL.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250406163100_RemoveImageURL.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Migrations\\20250406163100_RemoveImageURL.cs",
+              "RelativeToolTip": "Migrations\\20250406163100_RemoveImageURL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:31:00.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250406113633_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Migrations\\20250406113633_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250406113633_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-MoshesheBoikemiso\\CLDV6211_WebApplication\\Migrations\\20250406113633_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250406113633_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:36:33.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
